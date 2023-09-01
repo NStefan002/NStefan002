@@ -2,8 +2,4 @@
 
 [![Top Langs](https://github-readme-stats-nstefan002.vercel.app/api/top-langs/?username=NStefan002&card_width=500&theme=onedark&langs_count=7&hide=EJS)](https://github.com/NStefan002)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NStefan002&theme=onedark&exclude_days=Sun%2CSat&excludeDaysLabel=EB545400&hide_total_contributions=true)
-
-<!-- [![Visits Badge](https://badges.pufler.dev/visits/NStefan002/NStefan002)](https://badges.pufler.dev) -->
-<!-- ### Last stars -->
-<!-- ![Last Stars Display](https://badges.pufler.dev/last-stars/NStefan002?count=6&padding=15&perRow=3) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=NStefan002&theme=onedark&exclude_days=Sun%2CSat&excludeDaysLabel=EB545400&hide_total_contributions=true)](https://github.com/NStefan002)
