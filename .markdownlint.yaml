@@ -1,0 +1,12 @@
+MD013:
+  line_length: 120
+  tables: false
+MD028: false
+MD033:
+  allowed_elements:
+    - "a"
+    - "br"
+    - "picture"
+    - "div"
+    - "source"
+    - "img"
