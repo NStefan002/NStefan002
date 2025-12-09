@@ -75,6 +75,17 @@ skiing, chess, and speedcubing.
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
+---
+
+### [tui-calendar](https://github.com/NStefan002/tui-calendar) 📅
+
+> Read, add, update, and delete your Google Calendar events from your terminal
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bubbletea](https://img.shields.io/badge/Bubbletea-FF6F00?style=for-the-badge&logo=bubbletea&logoColor=white)
+![Google Calendar API](https://img.shields.io/badge/Google_Calendar_API-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-FF6F00?style=for-the-badge&logo=oauth&logoColor=white)
+
 ## 💻 Tech Stack
 
 ### **Programming Languages**
